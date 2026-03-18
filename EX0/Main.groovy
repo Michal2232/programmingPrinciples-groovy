@@ -1,4 +1,5 @@
-
+//ליאל יאדגרוב 212615777
+//מיכל אלגאוי 325279990
 import java.io.File
 import java.io.FileFilter
 import java.util.Scanner
